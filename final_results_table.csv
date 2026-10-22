@@ -1,0 +1,7 @@
+,CSALT (TTS),OpenVoice (own test_audio),OpenVoice (CSALT-converted),MMS-TTS + own recordings
+AASIST-L Zero-shot,16.09%,59.38%,74.60%,51.46%
+AASIST-L Fine-tuned (TTS),23.98%,71.88%,59.37%,61.04%
+AASIST-L Fine-tuned (TTS+VC),23.61%,84.38%,59.31%,74.17%
+SSL-backend,37.86%,46.88%,47.47%,67.50%
+CNN (spectrogram),4.16%,21.88%,3.39%,74.17%
+Whisper-backend,16.95%,68.75%,47.47%,90.42%
